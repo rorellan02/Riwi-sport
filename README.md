@@ -68,11 +68,11 @@ DB_NAME=datebase
 ```
 📁 ventas_sports/
 │
-├── main.ipynb              # Notebook principal del análisis
-├── informe.pdf             # Informe ejecutivo generado
-├── Riwisport.sql           # Script de creación e inserción de datos
-├── .env                    # Variables de entorno (no subir)
-└── README.md               # Documentación del proyecto
+├── analisis_RIWI_Sport_Roberto-Orellano.ipynb     # Notebook principal del análisis
+├── informe_RIWI_Sport.pdf                         # Informe ejecutivo generado
+├── Riwisport.sql                                  # Script de creación e inserción de datos
+├── ejemplo.env                                    # Variables de entorno ejemplo
+└── README.md                                      # Documentación del proyecto
 
 ```
 
