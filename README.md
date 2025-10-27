@@ -82,7 +82,7 @@ DB_NAME=datebase
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/rorellan02/ventas_sports.git
+   git clone https://github.com/rorellan02/Riwi-sport
    cd ventas_sports
    ```
 
